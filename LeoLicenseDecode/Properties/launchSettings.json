@@ -2,7 +2,8 @@
   "profiles": {
     "LeoLicenseDecode": {
       "commandName": "Project",
-      "workingDirectory": "S:\\Clip"
+      "commandLineArgs": "S:\\Clip",
+      "workingDirectory": "M:\\"
     }
   }
 }
